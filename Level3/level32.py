@@ -1,4 +1,7 @@
 #prepare for bunnies escapes
+
+
+
 def solution(map):
     # Your code here
     d = (len(map) - 1, len(map[0]) - 1)
